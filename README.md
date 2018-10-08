@@ -24,8 +24,11 @@ class Stack {
 }
 
 let stack = Stack()
+
 stack.push(element: "Raja")
+
 stack.push(element: "Reddy")
+
 stack.push(element: "Poreddy")
 
 print(stack.pop()) // Prints Poreddy
